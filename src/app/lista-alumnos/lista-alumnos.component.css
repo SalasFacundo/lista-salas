@@ -1,0 +1,18 @@
+.desaprobado{
+    background-color: rgb(209, 64, 64);
+}
+
+.aprobado{
+    background-color: rgb(72, 133, 72);
+}
+
+#leyenda{
+    width: 20%;
+}
+
+.cuadrado{
+    display: inline-block;
+    margin: 0 10px;
+    width: 16px;
+    height: 16px;
+}
